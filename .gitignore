@@ -1,0 +1,55 @@
+
+# LaTeX temp files
+*.aux
+*.log
+*.tex~
+*.bbl
+
+# Emacs
+\#*
+.#*
+
+# Directories to ignore
+.hg
+.svn
+.CVS
+.idea
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# Extensions to ignore
+*.gem
+*.rbc
+*.log
+*~
+*.swp
+*.swo
+._*
+.bundle
+.config
+*.diff
+*.zip
+*.vi
+*.sass-cache
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+
+# Linux/OSX artifacts
+.DS_Store
+Thumbs.db
+.cache
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
