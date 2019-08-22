@@ -3,8 +3,19 @@ Societies around the world face an array of difficult challenges: preventing and
 At the same time, research in artificial intelligence and multiagent systems has witnessed incredible growth, providing us with unprecedented computational tools with which to contribute to solving societal problems. This tutorial will introduce multiagent systems students and researchers to the use of techniques from optimization and machine learning to enhance the delivery of policy or community-level interventions aimed at addressing social challenges. We will focus in particular on three application areas: public health, social work, and healthcare. On a technical level, the tutorial will introduce methods for aggregating value judgments from multiple agents about an intervention's goals, discuss the creation of agents which can learn and plan under uncertainty to aid in resource allocation, and showcase examples of how these techniques are used in concrete, deployed applications.  The goal of this tutorial is to provide a unified view of computational methods for resource allocation for social good and spark new research cutting across the sub-areas we cover. 
 
 
-## Tutorial Outline
+## Tutorial Outline and Slides
 
-Coming soon
+1. [Introduction](01_intro.pdf)
+2. [Preliminaries: optimization and social networks](02_preliminaries.pdf)
+3. [Formulating objective functions: value judgment aggregation](03_objectives.pdf)
+4. [Decision making under uncertainty](04_uncertainty.pdf)
+5. [Offline allocation techniques and applications](05_offline.pdf)
+6. [Online allocation techniques and applications](06_online.pdf)
 
 ## Presenters
+
+**Sanmay Das** is an associate professor in Computer Science and Engineering and the chair of the steering committee of the new Division of Computational and Data Sciences at Washington University in St. Louis. He received his Ph.D. from MIT and a Bachelor's degree from Harvard, both in Computer Science. Dr. Das is vice-chair of the ACM Special Interest Group on Artificial Intelligence, a member of the board of directors of the International Foundation for Autonomous Agents and Multiagent Systems, and serves on the editorial board of the ACM Transactions on Economics and Computation. He has served as program co-chair of the AAMAS and AMMA conferences and area chair for AAAI, in addition to regularly serving as a senior program committee member of major conferences including IJCAI, AAAI, EC, and AAMAS. He has been recognized with awards for research and teaching, including an NSF CAREER Award and the Department Chair Award for Outstanding Teaching at Washington University.  He broadly works in AI, ML, and optimization for social applications.
+
+**John P.\ Dickerson** is an Assistant Professor of Computer Science at the University of Maryland, and a recent CS PhD graduate of Carnegie Mellon University. His research centers on solving practical economic problems using techniques from computer science, stochastic optimization, and machine learning. He has worked extensively on theoretical and empirical approaches to kidney exchange where his work has set policy at the UNOS nationwide exchange; game-theoretic approaches to counter-terrorism and negotiation, where his models have been deployed; and computational advertising through Optimized Markets, a CMU spin-off company. He created FutureMatch, a general framework for learning to match subject to human value judgments; that framework won a 2014 HPCWire Supercomputing Award. Prior to his Ph.D., he worked at IBM and in R\&D at a defense agency. He is an NDSEG Fellow, Facebook Fellow, and Siebel Scholar.  
+
+**Bryan Wilder** is a PhD student at the University of Southern California, where he is advised by Milind Tambe. His work focuses on optimization and machine learning for social impact, with applications including HIV prevention for homeless youth and improving the quality of tuberculosis treatment in India. He is supported by a NSF Graduate Research Fellowship, and his work has been nominated for best paper or best student paper awards at AAMAS 2017, AAMAS 2018, and ICML 2019. 
